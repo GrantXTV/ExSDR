@@ -1,4 +1,4 @@
-<h1>ExSDR is a Python SDR TRansciver  </h1>
+<h1>ExSDR is a Python SDR Transciver  </h1>
 
 ExSDR is a receiver and transmitter for a sound-card I/Q radio: your homemade ExSDR board, a HackRF One, or no radio at all, making use of use of your sound device.
 
