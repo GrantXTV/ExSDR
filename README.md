@@ -1,8 +1,7 @@
-<h1>Digital Voice HF encoder / decoder, based on the NBTV sound transmission system </h1>
+<h1>ExSDR is a Python SDR TRansciver  </h1>
 
-<p>This Project is a place holder, for the the HF digital voice system, that is designed to work within the same bandwidth as SSB, using two new modes:
-XDX15 and XDX27. That uses OFDM with 12 digital voice carriers with 3 pilot carriers and 24 digital voice carriers with 3 pilot carriers using any SDR modulator / demodulator with I & Q inputs and outputs from a stereo sound device. The naming:</p> <p>X for experimental.</p>
-<p>DX for longdistance.</p>
-<p>15 or 27, the number of RF carriers used.</p>  
+ExSDR is a receiver and transmitter for a sound-card I/Q radio: your homemade ExSDR board, a HackRF One, or no radio at all, making use of use of your sound device.
+
+Not a test program and there a number of bugs to work through.
 
 Update will be posted at future date on this software.
