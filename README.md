@@ -4,7 +4,7 @@ ExSDR is a receiver and transmitter for a sound-card I/Q radio: your homemade Ex
 
 Note a test program and there are a number of bugs to work through.
 
-The Digital voice modes are untested on the air, both HxDX14 and HxDX26 have gone through simulation test.
+The Digital voice modes are untested on the air, both HxDX14 and HxDX26 have gone through simulation testing.
 
 Update will be posted at future date on this software.
 
